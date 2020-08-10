@@ -1,0 +1,54 @@
+.jumbotron {
+    height: 500px;
+    background: url(./Images/simon-rae-kSJTEv9w5l4-unsplash.jpg);
+    background-position: 45% 43%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.jumbotron .jumbo-center {
+    padding: 120px 0;
+}
+
+.jumbotron button {
+    width: 50%;
+}
+
+
+.jumbotron button {
+    padding-bottom: 10px;
+    transition: 0.5s ease-in-out;
+}
+
+.jumbotron button:hover {
+    background: rgb(250, 208, 144);
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: rgb(250, 208, 144);
+    transition: 0.5s ease-in-out;
+}
+
+.glyphicon {
+    top: 2px;
+    padding-right: 2px;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding-top: 15px;
+}
